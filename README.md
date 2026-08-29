@@ -1,5 +1,5 @@
 # powerbi-analise-logistica
-Description: ## 🚚 Dashboard de Análise de Entregas Logísticas - Power BI
+Description: 🚚 Dashboard de Análise de Entregas Logísticas - Power BI
 
 ## 📌 Visão Geral do Projeto
 Projeto focado na reestruturação e otimização de um painel de logística para acompanhamento do processo de entrega de produtos. O objetivo foi corrigir falhas de modelagem e navegação, entregando uma solução analítica funcional para tomada de decisão sobre prazos, equipes e canais de entrega.
