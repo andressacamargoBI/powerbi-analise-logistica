@@ -1,7 +1,8 @@
 # powerbi-analise-logistica
 🚚 Dashboard de Análise de Entregas Logísticas - Power BI
 
-<img width="866" height="482" alt="Dash Logística" src="https://github.com/user-attachments/assets/b8698ba7-65aa-4c7d-93be-6795dd8962bb" />
+<img width="865" height="483" alt="Dash Logística" src="https://github.com/user-attachments/assets/ce3eab04-188d-4070-ad27-afc75d00d176" />
+
 
 ## 📌 Visão Geral do Projeto
 Dashboard desenvolvido para monitoramento de eficiência operacional de entregas, nível de serviço (SLA), desempenho de canais e acompanhamento de atrasos por localização e equipe.
